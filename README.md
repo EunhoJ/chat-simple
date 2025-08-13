@@ -17,5 +17,5 @@ Permite que usuários se registrem com um nome, enviem mensagens, recebam notifi
 - [React](https://react.dev/)
 - [Socket.IO](https://socket.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Node.js](https://nodejs.org/) 
+
 
