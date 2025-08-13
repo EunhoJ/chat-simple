@@ -1,4 +1,4 @@
-# 💬 Digital Chat
+# 💬 Digital Chat - Frontend
 
 Aplicativo de chat em tempo real desenvolvido com **React** e **Socket.IO**, com interface inspirada no **WhatsApp Web**.  
 Permite que usuários se registrem com um nome, enviem mensagens, recebam notificações de entrada/saída e visualizem mensagens de sistema.
@@ -17,5 +17,5 @@ Permite que usuários se registrem com um nome, enviem mensagens, recebam notifi
 - [React](https://react.dev/)
 - [Socket.IO](https://socket.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Node.js](https://nodejs.org/) (no backend, para o Socket.IO)
+- [Node.js](https://nodejs.org/) 
 
